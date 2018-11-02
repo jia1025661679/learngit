@@ -1,2 +1,2 @@
 这是gitceshi
-:
+gitceshi那边好像加了一个标签测试我这边的暂存区来了，辛亏我会$:git stash
