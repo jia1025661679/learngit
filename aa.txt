@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 这里是aa.txt证件号
 我来测试一次全部提交
 测试 git checkout --aa.txt
 测试push 时的ip 让添加到本地host列表警告是否消除
 第二次测试 push警告
 测试和版本提交
+=======
+﻿这是learngit版本库aa.txt文件
+>>>>>>> b0ae072061971739c2b59101aeb079ef8453f17e
