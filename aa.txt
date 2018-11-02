@@ -3,4 +3,3 @@
 测试 git checkout --aa.txt
 测试push 时的ip 让添加到本地host列表警告是否消除
 第二次测试 push警告
-我来测试learngit版本库勒，这次我加了两个文件aaa.txt和bbb.txt,顺便加了这句话在这里
