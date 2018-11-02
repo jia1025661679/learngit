@@ -3,3 +3,4 @@
 测试 git checkout --aa.txt
 测试push 时的ip 让添加到本地host列表警告是否消除
 第二次测试 push警告
+测试和版本提交
