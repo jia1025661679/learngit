@@ -1,3 +1,4 @@
 这里是aa.txt证件号
 我来测试一次全部提交
 测试 git checkout --aa.txt
+测试push 时的ip 让添加到本地host列表警告是否消除
